@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "id":1,
+      "image":"img/blog/phone.jpg",
+      "title":"Understanding Smart Home Systems & Maintenance",
+      "url":"#",
+      "data":"19 Jan 2023",
+      "text":"Find lots of insights and information on our blog. Explore, learn, and get inspired today.",
+      "tags":
+      {
+        "plumbing":"#"
+      }
+    },
+    {
+      "id":2,
+      "image":"img/blog/two-man.jpg",
+      "title":"The Ultimate Guide to Home Repairs and Renovations",
+      "url":"#",
+      "data":"19 Jan 2023",
+      "text":"Find lots of insights and information on our blog. Explore, learn, and get inspired today.",
+      "tags":
+      {
+        "plumbing":"#",
+        "arhitecture":"#",
+        "maintenanse":"#"
+      }
+    },
+    {
+      "id":3,
+      "image":"img/blog/color.jpg",
+      "title":"Painting Techniques for a Kitchen Refresh",
+      "url":"#",
+      "data":"19 Jan 2023",
+      "text":"Find lots of insights and information on our blog. Explore, learn, and get inspired today.",
+      "tags":
+      {
+        "plumbing":"#",
+        "arhitecture":"#"
+      }
+    },
+    {
+      "id":4,
+      "image":"img/blog/two-man.jpg",
+      "title":"The Ultimate Guide to Home Repairs and Renovations",
+      "url":"#",
+      "data":"19 Jan 2023",
+      "text":"Find lots of insights and information on our blog. Explore, learn, and get inspired today.",
+      "tags":
+      {
+        "plumbing":"#",
+        "arhitecture":"#",
+        "maintenanse":"#"
+      }
+    }
+  ]
+}
